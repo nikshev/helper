@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2012.02.26 11:14:21.125.pas,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.pas=E:\work\Razrabotka\Helper\N6\Helper.pas</Transaction>
+    <Transaction>2012.02.26 11:14:21.125.dfm,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Unit1.dfm=E:\work\Razrabotka\Helper\N6\Helper.dfm</Transaction>
+    <Transaction>2012.02.26 11:14:40.718.dproj,C:\Documents and Settings\Admin\Мои документы\RAD Studio\Projects\Project1.dproj=E:\work\Razrabotka\Helper\N6\HelperProject.dproj</Transaction>
+    <Transaction>2012.03.24 09:55:05.814.pas,F:\Eugene\NewWork\Razrabotka\Учеба\N6\01032012\Unit1.pas=F:\Eugene\NewWork\Razrabotka\Учеба\N6\01032012\FindPathUnit.pas</Transaction>
+  </Transactions>
+</BorlandProject>
